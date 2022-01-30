@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/lets_flow_app/static/css/main.6132afda.css",
+    "main.js": "/lets_flow_app/static/js/main.76002d1c.js",
+    "static/js/787.e0a751ef.chunk.js": "/lets_flow_app/static/js/787.e0a751ef.chunk.js",
+    "static/media/women_video.mp4": "/lets_flow_app/static/media/women_video.a593b5d73320a46897c5.mp4",
+    "static/media/flow_1.mp4": "/lets_flow_app/static/media/flow_1.fd21830f819d94d751f5.mp4",
+    "static/media/flow_2.mp4": "/lets_flow_app/static/media/flow_2.22d7ff5aa641d46020d4.mp4",
+    "static/media/mobile.mp4": "/lets_flow_app/static/media/mobile.ea58e88aa20a67abe765.mp4",
+    "static/media/hero_section_pic.png": "/lets_flow_app/static/media/hero_section_pic.5d3cbf01067b4dd052bb.png",
+    "static/media/2.png": "/lets_flow_app/static/media/2.e8f66a1229aad2840892.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/lets_flow_app/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/1.png": "/lets_flow_app/static/media/1.ac73588fb992ff227e28.png",
+    "static/media/reward_mobile.png": "/lets_flow_app/static/media/reward_mobile.1cdf897e7fab0da3443b.png",
+    "static/media/two_mobiles.png": "/lets_flow_app/static/media/two_mobiles.aa9eda385dece35cc1d7.png",
+    "static/media/fontawesome-webfont.eot": "/lets_flow_app/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/lets_flow_app/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/drop_bg.png": "/lets_flow_app/static/media/drop_bg.d3a17b25a5c173d91000.png",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/lets_flow_app/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/lets_flow_app/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/Hero_section_bg.png": "/lets_flow_app/static/media/Hero_section_bg.eb800e2c3eec2a9c535e.png",
+    "static/media/mulish-black-webfont.woff": "/lets_flow_app/static/media/mulish-black-webfont.974f0afecea89e7b1892.woff",
+    "static/media/mulish-bold-webfont.woff": "/lets_flow_app/static/media/mulish-bold-webfont.631ff6c7983372859f91.woff",
+    "static/media/mulish-regular-webfont.woff": "/lets_flow_app/static/media/mulish-regular-webfont.ed20c61ea278e4bff00c.woff",
+    "static/media/mulish-black-webfont.woff2": "/lets_flow_app/static/media/mulish-black-webfont.573777862a814a0909e5.woff2",
+    "static/media/mulish-bold-webfont.woff2": "/lets_flow_app/static/media/mulish-bold-webfont.8232d673f94cf2439226.woff2",
+    "static/media/mulish-regular-webfont.woff2": "/lets_flow_app/static/media/mulish-regular-webfont.85054c3d5681f9b39ee7.woff2",
+    "index.html": "/lets_flow_app/index.html",
+    "main.6132afda.css.map": "/lets_flow_app/static/css/main.6132afda.css.map",
+    "main.76002d1c.js.map": "/lets_flow_app/static/js/main.76002d1c.js.map",
+    "787.e0a751ef.chunk.js.map": "/lets_flow_app/static/js/787.e0a751ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6132afda.css",
+    "static/js/main.76002d1c.js"
+  ]
+}
